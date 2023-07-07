@@ -6,5 +6,4 @@
 * 🏫 I'm currently studying Computer Science and Computer Security at Korea University
 * 🧐 I'm interested in Offensive research (like static analysis, fuzzing, Reversing, etc.) & Computer Science.
 * 📮 Contact to me: ipwn@korea.ac.kr or ipwn.with@gmail.com
-* <a href="http://ipwning.com" target="_blank"><img src="https://img.shields.io/badge/notion-gray?style=flat&logo=notion&logoColor=000000"/></a> <== And my more information is here.
-* <a href="http://ipwn.kr" target="_blank"><img src="https://img.shields.io/badge/blog-gray?style=flat&logo=bloglovin&logoColor=000000"></a> <== My sub blog.
+* <a href="http://ipwning.com" target="_blank"><img src="https://img.shields.io/badge/NOTION-white?style=flat&logo=notion&logoColor=000000"/></a><a href="http://ipwn.kr" target="_blank"><img src="https://img.shields.io/badge/BLOG-white?style=flat&logo=bloglovin&logoColor=000000"></a> <== My sub blog.
